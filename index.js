@@ -13,11 +13,10 @@ const bdLocalhost = {
 }
 
 const dbProduction = {
-    host: 'remotemysql.com',
-    port: '3306',
-    user: 'vfeXpquFRA',
-    password: 'Uso1GHAIDO',
-    database: 'vfeXpquFRA'
+    host: 'den1.mysql6.gear.host',
+    user: 'todolistapi',
+    password: 'Mc727v_8R?Jq',
+    database: 'todolistapi'
     
 }
 
